@@ -8,7 +8,7 @@ Lightweight and easy to understand – ideal for learning and experimentation
 
 Tech Stacks:
 Python
-Pandas & NumPy
+Pandas & NumPy!
 Scikit-learn (preprocessing, cosine similarity)
 Jupyter Notebook
 
